@@ -92,7 +92,7 @@ Ce projet illustre l'importance du traitement des déséquilibres dans les donn�
 
 ## 📬 Contact
 
-Pour plus d'informations, contactez-moi à : fouejio.francky@exemple.com
+Pour plus d'informations, contactez-moi à : ffouejio@gmail.com
 
 ## ✍️ Auteur
 Fouejio Francky Joël
